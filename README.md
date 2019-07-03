@@ -1,4 +1,4 @@
-# Memory-Game
+# Memory Game
 
 The classic memory game, but updated for 2019! Features single and multiplayer mode.
 
