@@ -6,4 +6,6 @@ The classic memory game, but updated for 2019! Features single and multiplayer m
 
 # Screenshots of the application.
 
-<img src="Capturar.PNG" >
+<img src="screenshots/Capturar.PNG" >
+
+
